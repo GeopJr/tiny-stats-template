@@ -1,0 +1,78 @@
+# Greek translations for dev.geopjr.tinystats package.
+# Copyright (C) 2022 THE dev.geopjr.tinystats'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dev.geopjr.tinystats package.
+# Evan <geopjr@hom>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dev.geopjr.tinystats\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-24 08:43+0200\n"
+"PO-Revision-Date: 2022-02-24 08:44+0200\n"
+"Last-Translator: Evan <geopjr@home>\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/dev.geopjr.tinystats.desktop.in:6
+msgid "tiny-stats"
+msgstr "μικροσκοπικά-στατιστικά"
+
+#: data/dev.geopjr.tinystats.desktop.in:7
+msgid "System Monitor"
+msgstr "Επισκόπηση Συστήματος"
+
+#: data/dev.geopjr.tinystats.desktop.in:8
+msgid "Tiny hardware stats monitor"
+msgstr "Μικροσκοπική επιτήρηση στατιστικών στοιχείων υλικού"
+
+#: data/dev.geopjr.tinystats.desktop.in:11
+msgid "memory;cpu;network;monitor;"
+msgstr "μνήμη;cpu;δίκτυο;επιτήρηση;"
+
+#: data/ui/app.ui:16
+msgid "Usage"
+msgstr "Χρήση"
+
+#: data/ui/app.ui:25 data/ui/app.ui:95
+msgid "Used"
+msgstr "Χρησιμοποιείται"
+
+#: data/ui/app.ui:34 data/ui/app.ui:104
+msgid "Total"
+msgstr "Σύνολο"
+
+#: data/ui/app.ui:72
+msgid "CPU"
+msgstr "CPU"
+
+#: data/ui/app.ui:86
+msgid "Available"
+msgstr "Διαθέσιμη"
+
+#: data/ui/app.ui:142
+msgid "Memory"
+msgstr "Μνήμη"
+
+#: data/ui/app.ui:156
+msgid "Up"
+msgstr "Πάνω"
+
+#: data/ui/app.ui:165
+msgid "Down"
+msgstr "Κάτω"
+
+#: data/ui/app.ui:194
+msgid "Network"
+msgstr "Δίκτυο"
+
+#: data/ui/app.ui:207
+msgid "_About Tiny Stats"
+msgstr "_Σχετικά με τα Μικροσκοπικά Στατιστικά"
+
+#: data/ui/app.ui:215
+msgid "Menu"
+msgstr "Μενού"

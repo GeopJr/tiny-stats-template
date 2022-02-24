@@ -1,0 +1,26 @@
+version: 2.0
+shards:
+  gettext:
+    git: https://github.com/geopjr/gettext.cr.git
+    version: 1.0.0
+
+  gi-crystal:
+    git: https://github.com/hugopl/gi-crystal.git
+    version: 0.5.0+git.commit.6100e4dc0786fc505cf9b57146c3cc3ddf2512a4
+
+  gtk4:
+    git: https://github.com/hugopl/gtk4.cr.git
+    version: 0.3.0+git.commit.16a3b79866e0af18e95681ca2842d8428ac6e152
+
+  hardware:
+    git: https://github.com/crystal-community/hardware.git
+    version: 0.5.2
+
+  non-blocking-spawn:
+    git: https://github.com/geopjr/non-blocking-spawn.git
+    version: 1.0.0
+
+  version_from_shard:
+    git: https://github.com/hugopl/version_from_shard.git
+    version: 1.2.5
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>dev.geopjr.tinystats</id>
+  <name>Tiny Stats</name>
+  <developer_name>Evangelos "GeopJr" Paterakis</developer_name>
+  <summary>Tiny hardware stats monitor</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <url type="homepage">https://github.com/GeopJr/tiny-stats-template</url>
+  <url type="bugtracker">https://github.com/GeopJr/tiny-stats-template/issues</url>
+  <url type="donation">https://geopjr.dev/donate</url>
+  <description>
+    <p>
+      Check your hardware stats with a tiny &amp; minimal system monitor!
+    </p>
+  </description>
+  <releases>
+    <release version="1.0.0" date="2022-03-01" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

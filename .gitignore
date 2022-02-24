@@ -1,0 +1,14 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+tiny-stats
+.flatpak-builder/
+*.gresource
+.rucksack
+.rucksack.toc
+po/mo/
+*.mo
+data/*.desktop
+data/*.metainfo.xml

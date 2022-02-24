@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/dev/geopjr/tinystats">
+    <file compressed="true">css/style.css</file>
+    <file compressed="true" preprocess="xml-stripblanks">icons/dev.geopjr.tinystats.svg</file>
+    <file compressed="true" preprocess="xml-stripblanks">ui/app.ui</file>
+  </gresource>
+</gresources>

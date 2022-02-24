@@ -1,0 +1,24 @@
+name: tiny-stats
+version: 1.0.0
+
+authors:
+  - Your Name <your@email>
+
+targets:
+  tiny-stats:
+    main: src/tiny-stats.cr
+
+dependencies:
+  gtk4:
+    github: hugopl/gtk4.cr
+    branch: master
+  hardware:
+    github: crystal-community/hardware
+  non-blocking-spawn:
+    github: GeopJr/non-blocking-spawn
+  gettext:
+    github: GeopJr/gettext.cr
+
+crystal: 1.3.2
+
+#license: MIT

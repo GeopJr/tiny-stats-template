@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+StartupWMClass=tiny-stats
+Exec=tiny-stats %F
+Name=tiny-stats
+GenericName=System Monitor
+Comment=Tiny hardware stats monitor
+Terminal=false
+Icon=dev.geopjr.tinystats
+Categories=Utility;
+Keywords=memory;cpu;network;monitor;
