@@ -8,6 +8,5 @@ module Tiny::Stats
   THANKS     = {{run("../../data/scripts/thank_translators").stringify}}
   VERSION    = {{read_file("./shard.yml").split("version: ")[1].split("\n")[0]}} # Shards binary might not be in PATH, reading yml is safer
 
-  RESOURCE = Gio::Resource.new_from_data(GLib::Bytes.new({{read_file("./data/dev.geopjr.tinystats.gresource")}}.bytes))
-  RESOURCE._register
+  Gio.register_resource("data/dev.geopjr.tinystats.gresource.xml", "data")
 end

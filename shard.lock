@@ -6,11 +6,11 @@ shards:
 
   gi-crystal:
     git: https://github.com/hugopl/gi-crystal.git
-    version: 0.5.0+git.commit.6100e4dc0786fc505cf9b57146c3cc3ddf2512a4
+    version: 0.13.1+git.commit.1d72c81d4e41a679300468fe611882a18d925ee2
 
   gtk4:
     git: https://github.com/hugopl/gtk4.cr.git
-    version: 0.3.0+git.commit.16a3b79866e0af18e95681ca2842d8428ac6e152
+    version: 0.11.1+git.commit.1ddcb4c78b2a1c24dcaf4e9e6997d52e3985f447
 
   hardware:
     git: https://github.com/crystal-community/hardware.git
@@ -18,7 +18,7 @@ shards:
 
   non-blocking-spawn:
     git: https://github.com/geopjr/non-blocking-spawn.git
-    version: 1.0.0
+    version: 1.0.2
 
   version_from_shard:
     git: https://github.com/hugopl/version_from_shard.git
