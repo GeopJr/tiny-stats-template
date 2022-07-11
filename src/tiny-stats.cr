@@ -26,5 +26,10 @@ module Tiny::Stats
   CPU_USED  = Gtk::Label.cast(B_UI["tinyCPUUsed"])
   CPU_TOTAL = Gtk::Label.cast(B_UI["tinyCPUTotal"])
 
+  # [Blueprint]: Lucky Action
+  B_L          = Gtk::Builder.new_from_resource("/dev/geopjr/tinystats/ui/compiled/lucky.ui")
+  LUCKY_WINDOW = Gtk::Window.cast(B_L["luckyWindow"])
+  LUCKY_LABEL  = Gtk::Label.cast(B_L["luckyLabel"])
+
   APP = Gtk::Application.new("dev.geopjr.tinystats", Gio::ApplicationFlags::None)
 end

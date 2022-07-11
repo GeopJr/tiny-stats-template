@@ -17,6 +17,9 @@ module Tiny::Stats
     Tiny::Stats::Meters.init
     Tiny::Stats.about_action(app)
 
+    # [Blueprint]: Lucky Action
+    Tiny::Stats.lucky_action(app)
+
     NOTEBOOK.switch_page_signal.connect do |x|
       window.title = "Tiny Stats - #{Gettext.gettext(NOTEBOOK.tab_label_text(x).not_nil!)}"
     end

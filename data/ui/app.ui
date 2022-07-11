@@ -204,6 +204,10 @@
         <menu id="primary_menu">
           <section>
             <item>
+              <attribute name="label" translatable="yes">_Lucky Number</attribute>
+              <attribute name="action">app.lucky</attribute>
+            </item>
+            <item>
               <attribute name="label" translatable="yes">_About Tiny Stats</attribute>
               <attribute name="action">app.about</attribute>
             </item>

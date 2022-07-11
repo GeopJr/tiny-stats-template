@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dev.geopjr.tinystats\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-24 08:43+0200\n"
-"PO-Revision-Date: 2022-02-24 08:44+0200\n"
+"PO-Revision-Date: 2022-07-11 16:39+0300\n"
 "Last-Translator: Evan <geopjr@home>\n"
 "Language-Team: Greek\n"
 "Language: el\n"
@@ -26,12 +26,25 @@ msgid "System Monitor"
 msgstr "Επισκόπηση Συστήματος"
 
 #: data/dev.geopjr.tinystats.desktop.in:8
+#: data/dev.geopjr.tinystats.metainfo.xml.in:6
 msgid "Tiny hardware stats monitor"
 msgstr "Μικροσκοπική επιτήρηση στατιστικών στοιχείων υλικού"
 
 #: data/dev.geopjr.tinystats.desktop.in:11
 msgid "memory;cpu;network;monitor;"
 msgstr "μνήμη;cpu;δίκτυο;επιτήρηση;"
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:4
+msgid "Tiny Stats"
+msgstr "Μικροσκοπικά Στατιστικά"
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:5
+msgid "Evangelos \"GeopJr\" Paterakis"
+msgstr "Ευάγγελος \"GeopJr\" Πατεράκης"
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:12
+msgid "Check your hardware stats with a tiny &amp; minimal system monitor!"
+msgstr "Ελέγξτε τα στατιστικά στοιχεία του υλικού σας με ένα μικροσκοπικό &amp; ελάχιστο monitor συστήματος!"
 
 #: data/ui/app.ui:16
 msgid "Usage"
@@ -70,9 +83,17 @@ msgid "Network"
 msgstr "Δίκτυο"
 
 #: data/ui/app.ui:207
+msgid "_Lucky Number"
+msgstr "_Τυχερός Αριθμός"
+
+#: data/ui/app.ui:211
 msgid "_About Tiny Stats"
 msgstr "_Σχετικά με τα Μικροσκοπικά Στατιστικά"
 
-#: data/ui/app.ui:215
+#: data/ui/app.ui:219
 msgid "Menu"
 msgstr "Μενού"
+
+#: data/ui/lucky.blp:9
+msgid "Your lucky number is:"
+msgstr "Ο τυχερός αριθμός σου είναι:"

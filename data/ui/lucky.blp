@@ -1,0 +1,30 @@
+using Gtk 4.0;
+
+Window luckyWindow {
+  child:
+    Box {
+        orientation: vertical;
+
+        Label {
+            label: _("Your lucky number is:");
+
+            layout {
+              column: "0";
+              row: "0";
+            }
+        }
+
+        Label luckyLabel {
+            label: "0";
+
+            layout {
+              column: "0";
+              row: "0";
+            }
+        }
+    };
+
+  [titlebar]
+  HeaderBar {
+  }
+}

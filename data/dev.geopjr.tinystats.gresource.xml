@@ -4,5 +4,8 @@
     <file compressed="true">css/style.css</file>
     <file compressed="true" preprocess="xml-stripblanks">icons/dev.geopjr.tinystats.svg</file>
     <file compressed="true" preprocess="xml-stripblanks">ui/app.ui</file>
+
+    <!-- [Blueprint]: Lucky Action -->
+    <file compressed="true" preprocess="xml-stripblanks">ui/compiled/lucky.ui</file>
   </gresource>
 </gresources>

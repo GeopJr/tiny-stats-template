@@ -12,3 +12,4 @@ po/mo/
 *.mo
 data/*.desktop
 data/*.metainfo.xml
+data/ui/compiled/

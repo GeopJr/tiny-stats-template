@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-24 08:43+0200\n"
+"POT-Creation-Date: 2022-07-11 16:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,11 +26,24 @@ msgid "System Monitor"
 msgstr ""
 
 #: data/dev.geopjr.tinystats.desktop.in:8
+#: data/dev.geopjr.tinystats.metainfo.xml.in:6
 msgid "Tiny hardware stats monitor"
 msgstr ""
 
 #: data/dev.geopjr.tinystats.desktop.in:11
 msgid "memory;cpu;network;monitor;"
+msgstr ""
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:4
+msgid "Tiny Stats"
+msgstr ""
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:5
+msgid "Evangelos \"GeopJr\" Paterakis"
+msgstr ""
+
+#: data/dev.geopjr.tinystats.metainfo.xml.in:12
+msgid "Check your hardware stats with a tiny &amp; minimal system monitor!"
 msgstr ""
 
 #: data/ui/app.ui:16
@@ -70,9 +83,17 @@ msgid "Network"
 msgstr ""
 
 #: data/ui/app.ui:207
+msgid "_Lucky Number"
+msgstr ""
+
+#: data/ui/app.ui:211
 msgid "_About Tiny Stats"
 msgstr ""
 
-#: data/ui/app.ui:215
+#: data/ui/app.ui:219
 msgid "Menu"
+msgstr ""
+
+#: data/ui/lucky.blp:9
+msgid "Your lucky number is:"
 msgstr ""
