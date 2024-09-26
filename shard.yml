@@ -11,7 +11,7 @@ targets:
 dependencies:
   gtk4:
     github: hugopl/gtk4.cr
-    branch: master
+    branch: main
   hardware:
     github: crystal-community/hardware
   non-blocking-spawn:
